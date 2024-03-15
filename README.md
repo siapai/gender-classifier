@@ -26,6 +26,7 @@ Model yang telah dilatih akan diimplementasikan dalam sebuah aplikasi web menggu
 
 - [Link github backend](https://github.com/siapai/genq-api.git)
 - [Link github frontend](https://github.com/siapai/genq.git)
+- [Download InceptionV3_Epoch_20_Gender.ONNX](https://drive.google.com/file/d/1lHFrJ0bXnThH41KsXoIlfdY9rwHSWync/view?usp=sharing)
 
 ## Implementasi Video
 [![VIDEO](./files/Vid.png)](./files/Vid_Prediction.mp4)
